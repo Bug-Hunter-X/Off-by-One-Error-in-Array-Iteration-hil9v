@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in Java when iterating through arrays. The `BuggySum.java` file contains the erroneous code, which attempts to access an array element beyond its bounds.  The corrected version, `CorrectedSum.java`, fixes this error by adjusting the loop condition to prevent the exception.
